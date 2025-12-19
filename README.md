@@ -1,11 +1,11 @@
-# Phish Guard 🤖🛡️  
+# Phish Guard   
 
 Welcome to the Malicious URL Detection Bot, Phish Guard, a cutting-edge WhatsApp-based chatbot created as part of the GDSC Hackin Winters 2025 Hackathon. This project introduces a robust, user-friendly system for identifying and mitigating threats posed by malicious URLs. It combines the power of APIs, Python, and browser extension technologies to protect users from phishing and fraudulent websites.  
 **The browser extension** complements the WhatsApp bot by providing an additional layer of security during web browsing. It automatically monitors malicious URLs using a predefined, developer-provided list.
 
 ---
 
-## 💡 **About the Project**  
+##  **About the Project**  
 
 The **Malicious URL Detection Bot: Phish Guard** allows users to send a URL to the bot via WhatsApp. The bot processes the URL and determines its safety using:  
 - **Threat intelligence APIs** (e.g., VirusTotal, Google Safe Browsing).  
@@ -17,7 +17,7 @@ The browser extension complements and enhances the usability of the WhatsApp-bas
 
 ---
 
-## ✨ **Features**  
+##  **Features**  
 
 ### **Malicious URL Detection Bot**  
 - **Real-Time URL Analysis**: Detect malicious or fraudulent URLs instantly.  
@@ -35,7 +35,7 @@ The browser extension complements and enhances the usability of the WhatsApp-bas
 
 ---
 
-## 🛠️ **Technologies Used**  
+## **Technologies Used**  
 
 ### **Python**  
 - Backend logic for processing user input and API requests.  
@@ -61,7 +61,7 @@ The browser extension complements and enhances the usability of the WhatsApp-bas
 
 ---
 
-## 🌟 **Why This Project?**  
+## **Why This Project?**  
 
 Participating in the **Hackin Winters 2025 Hackathon** provided an opportunity to develop a real-world cybersecurity tool that combines innovation and technical expertise. This project aims to:  
 - Protect users from online threats.  
@@ -70,7 +70,7 @@ Participating in the **Hackin Winters 2025 Hackathon** provided an opportunity t
 
 ---
 
-## 📷 **Preview**  
+## **Preview**  
 
 1. **Real-Time URL Analysis and Threat Alert Example**  
    ![image](https://github.com/user-attachments/assets/6ad57abb-475e-490f-a0f8-c3fea55b84b4)  
@@ -86,7 +86,7 @@ Participating in the **Hackin Winters 2025 Hackathon** provided an opportunity t
 
 ---
 
-## 🛣️ **Future Scope**  
+## **Future Scope**  
 
 - [ ] Add support for file analysis to detect malware in attachments.  
 - [ ] Implement advanced machine learning algorithms for threat detection.  
@@ -94,7 +94,7 @@ Participating in the **Hackin Winters 2025 Hackathon** provided an opportunity t
 
 ---
 
-## 📬 **Contact**  
+## **Contact**  
 
 If you have any questions or suggestions, feel free to connect with us:  
 - **GitHub Repo**: https://github.com/ShireenKachroo/Cyber-Security-Hackathon  
@@ -107,5 +107,5 @@ If you have any questions or suggestions, feel free to connect with us:
 
 ---
 
-Stay secure with  **Phish Guard**! 🛡️  
+Stay secure with  **Phish Guard**! 
 
